@@ -1,16 +1,20 @@
-## Hi there 👋
+# Fernando Victor Heck
+**Estudante de Sistemas de Informação | Em busca de estágio em Tecnologia da Informação**
 
-<!--
-**nandoheckk/nandoheckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
+Graduando em Sistemas de Informação pela UNIFEBE (3º período), em Brusque/SC. Atuei por quase dois anos no Departamento Societário de um escritório contábil, com estruturação de processos contratuais, gestão de conformidade documental e controle de prazos junto a órgãos reguladores.
 
-Here are some ideas to get you started:
+Essa experiência me deu uma base sólida em análise de processos, organização e atenção a detalhes, competências que hoje aplico no desenvolvimento de soluções tecnológicas voltadas a problemas reais de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competências técnicas
+HTML · JavaScript
+
+## Formação
+- **Bacharelado em Sistemas de Informação**, UNIFEBE (2026 – 2029, em andamento)
+- **Inglês**, CCAA Brusque (em andamento)
+
+## Experiência
+- **Departamento Societário**, Contabilidade do Empreendedor (ago/2024 – jun/2026)
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/heck-fernando/) · fheck440@gmail.com
